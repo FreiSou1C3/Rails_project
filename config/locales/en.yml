@@ -12,3 +12,9 @@ en:
     contract:
       title: Contract
       info: Please contact me!
+  users:
+    new:
+      title: Sign up
+      create: Create my account
+    show:
+      title: Welcome to Sample App
