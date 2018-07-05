@@ -1,0 +1,6 @@
+length :
+  maxname : 50
+  maxemail : 255
+  minpass : 6
+size:
+  sizegra: 80
