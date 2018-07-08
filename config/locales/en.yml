@@ -9,6 +9,18 @@ en:
     help:
       title: Help
       info: Get help on the Ruby on Rails Tutorial at the
-    contract:
-      title: Contract
+    contact:
+      title: Contact
       info: Please contact me!
+  layouts:
+    home: Home
+    help: Help
+    login: Login
+  users:
+    new:
+      title: Sign up
+      create: Create my account
+    show:
+      title: Welcome to Sample App
+    create:
+      welcome: Welcome to Sample App
