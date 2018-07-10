@@ -3,6 +3,7 @@ en:
     home:
       title: Welcome to the Sample App
       home: This is the home page for the
+      signup: Sign up now!
     about:
       title: About
       info: This is the home page for the Ruby on Rails Tutorial sample application.
@@ -13,9 +14,13 @@ en:
       title: Contact
       info: Please contact me!
   layouts:
-    home: Home
-    help: Help
-    login: Login
+    _header:
+      home: Home
+      help: Help
+      login: Login
+      profile: Profile
+      setting: Settings
+      logout: Log out
   users:
     new:
       title: Sign up
@@ -24,3 +29,8 @@ en:
       title: Welcome to Sample App
     create:
       welcome: Welcome to Sample App
+  sessions:
+    new:
+      title: Log in
+      login: Log in
+      signup: Sign up now!
